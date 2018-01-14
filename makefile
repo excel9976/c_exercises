@@ -1,4 +1,4 @@
-all: e1 t1 e2 t2 e3 t3 test
+all: e1 t1 e2 t2 e3 t3 e4 t4 test
 .PHONY: clean test
 
 clean:
